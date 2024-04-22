@@ -1,0 +1,115 @@
+body {
+    background-image: url('GFmECmuWgAAe4PF-edited-scaled.jpeg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+  
+}
+
+H1{
+        font-weight: bold;
+        font-size: 45px;
+    }
+
+.foto1{
+    position: absolute;
+    left: 70px;
+    top: -15;
+
+
+}
+.foto2{
+    position: absolute;
+    right: 70px;
+    top: 15;
+}
+
+.tabela-redonda {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px; 
+    overflow: hidden; 
+    }
+
+.tabela-redonda {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+
+.tabela-redonda th, .tabela-redonda td {
+    border: -2px solid black; 
+    padding: 10px;
+}
+
+.tabela-redonda th {
+    background: linear-gradient(to bottom, white,black); 
+}
+
+.tabela-redonda tr{
+    background-color: rgba(255, 255, 255, 0.74); 
+    
+}
+
+.tabela-redonda tr:hover {
+    background-color: gray ;
+    transform: scale(1.1);
+    transition: transform 900MS;
+}
+
+
+td{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    font-weight: bold; 
+    
+}
+th{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold; 
+    
+
+}
+.tabela-redonda2 {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px; 
+    overflow: hidden; 
+}
+
+.tabela-redonda2 {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+
+.tabela-redonda2 th, .tabela-redonda2 td {
+    border: -2px solid black; 
+    padding: 10px;
+}
+
+.tabela-redonda2 th {
+    background: linear-gradient(to bottom, white,black); 
+}
+
+.tabela-redonda2 tr{
+    background-color: rgba(255, 255, 255, 0.74); 
+    
+}
+
+.tabela-redonda2 tr:hover {
+    background-color: gray;
+    transform: scale(1.1);
+    transition: transform 900MS;
+}
+h3{
+    font-weight: bold; 
+        font-size: 45px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: xx-large;
+}
